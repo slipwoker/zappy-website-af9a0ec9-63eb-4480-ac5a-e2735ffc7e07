@@ -1,0 +1,111 @@
+# חשבשבת — Generative Engine Optimization Map
+
+> A kitesurfing business based in Tel Aviv, operating in the exciting and adrenaline-fueled world of water sports. The brand is rooted in the vibrant beach culture of Tel Aviv, combining the thrill of wind and waves with an active, outdoor lifestyle. The business likely appeals to adventure seekers and water sports enthusiasts along the Israeli Mediterranean coast.
+
+---
+
+## Pages
+
+### בית
+https://-af9a0ec9.zappy5.app
+גלו את עולם ספורט המים והאקסטרים עם חשבשבת בתל אביב. שיעורי קייטסרפינג, אתגרי גלישה והרפתקאות ימיות שמתחילות בחוף הים. הצטרפו לחוויית אדרנלין בלתי נשכחת עכשיו!
+
+### שירותים
+https://-af9a0ec9.zappy5.app/services
+מגוון שירותי ספורט מים בתל אביב: שיעורי קייטסרפינג, גלישת גלים והרפתקאות ג&#39;ט סקי. התאימו לעצמכם את מנת האדרנלין המושלמת עם צוות חשבשבת המקצועי. הירשמו עוד היום!
+
+### אודות
+https://-af9a0ec9.zappy5.app/about
+הכירו את חשבשבת – קהילת ספורט המים של תל אביב. אנחנו חיים את תרבות החוף, משלבים אקסטרים עם תשוקה לים, ומביאים אתכם לחוויות גלישה וקייטסרפינג שלא תשכחו. בואו להיות חלק!
+
+### גלריה
+https://-af9a0ec9.zappy5.app/gallery
+צפו בגלריית התמונות של חשבשבת: רגעי שיא של קייטסרפינג, ג&#39;ט סקי והרפתקאות ימיות בתל אביב. כל תמונה מספרת סיפור של אדרנלין, חופש וים. היכנסו להתרשם ולהתרגש!
+
+### צור קשר
+https://-af9a0ec9.zappy5.app/contact
+צרו קשר עם חשבשבת עוד היום! בין אם אתם מחפשים שיעור קייטסרפינג או הרפתקת ג&#39;ט סקי בתל אביב, אנחנו כאן כדי להזניק אתכם לחוויית מים מטורפת. שלחו הודעה ונתחיל לגלוש!
+
+### Products
+https://-af9a0ec9.zappy5.app/products
+המוצרים שלנו - חשבשבת
+
+### Cart
+https://-af9a0ec9.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://-af9a0ec9.zappy5.app/checkout
+תשלום
+
+### Login
+https://-af9a0ec9.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://-af9a0ec9.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://-af9a0ec9.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://-af9a0ec9.zappy5.app/product/:slug
+פרטי המוצר - חשבשבת
+
+### Category
+https://-af9a0ec9.zappy5.app/category/:slug
+מוצרים - חשבשבת
+
+### תודה רבה | חשבשבת
+https://-af9a0ec9.zappy5.app/thank-you
+תודה שפנית אלינו. קיבלנו את הודעתך ונחזור אליך בהקדם האפשרי.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-af9a0ec9.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-af9a0ec9.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-af9a0ec9.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About חשבשבת
+A kitesurfing business based in Tel Aviv, operating in the exciting and adrenaline-fueled world of water sports. The brand is rooted in the vibrant beach culture of Tel Aviv, combining the thrill of wind and waves with an active, outdoor lifestyle. The business likely appeals to adventure seekers and water sports enthusiasts along the Israeli Mediterranean coast.
+
+## Services/Products
+- קייט סרפינג
+
+## Target Audience
+- הרפתקנים צעירים
+- תיירים אקולוגיים
+- זוגות מחפשי הרפתקאות
+
+## Industry
+Water Sports & Adventure
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-af9a0ec9.zappy5.app/sitemap.xml
+- Robots: https://-af9a0ec9.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-af9a0ec9.zappy5.app/llms-full.txt
+- Products (JSON): https://-af9a0ec9.zappy5.app/products.json
+- Products (Google Merchant RSS): https://-af9a0ec9.zappy5.app/product-feed.xml
